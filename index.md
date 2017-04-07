@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# leetcamp
 
-You can use the [editor on GitHub](https://github.com/leetcamp/leetcamp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The dawn of an hacker movement for good.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Partner project with [Layman-docs](https://layman-docs.github.io/).
+We hack and document, but we mainly hack. For our objective is doing stuff.
 
-### Markdown
+### Pillars:
+- Conscientia
+- Per aspera, ad astra
+- Benivolencia
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Explanation
 
-```markdown
-Syntax highlighted code block
+### Consciencia
+Consciousness and knowledge, be aware of your surroundings and motivations.
 
-# Header 1
-## Header 2
-### Header 3
+Your expression in your work will be more true. First word, best word. 
 
-- Bulleted
-- List
+Be passionate about knowledge, seek what makes you go nuts.
 
-1. Numbered
-2. List
+Spontaneity is key in every step of creation.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Per aspera, ad astra
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Through hard work, to the stars. Fear not working sleepless nights for what
+drives you. 
 
-### Jekyll Themes
+Stop excusing yourself. Accept it, work it and overcome it. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leetcamp/leetcamp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We're all noobz at every point in our lives.
 
-### Support or Contact
+### Benivolencia
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Do good, be inspiring, be active, don't be passive in your community. 
+
+Creative minds are gifted, not using it for the benefit of all is 
+nothing, but a crime.
+
+At the tips of your fingers lies big power, to move mountains, planets, and 
+galaxies.
+
+## Questions
+
+### Do I fit in?
+If you want to learn, study and help the world, the answer is yes. If not so,
+remember us.
+
+### So what do we do?
+Initially, we hack our own projects, be master to ourselves. If it can be
+shared and help others in their road, the better. Most important must be to
+have fun.
+
+
+#### Current Projects:
+- To be featured
